@@ -1,8 +1,8 @@
-# Data Structures & Algorithms in TypeScript
+# Data Structures & Algorithms (数据结构与算法)
 
 ## Topics Overview
 
-### Algorithmic Complexity Analysis
+### Algorithmic Complexity Analysis （算法复杂度分析）
 
 - [x] Big O Notation
 - [x] Time Complexity
@@ -29,12 +29,6 @@
   - [x] Linear Search
   - [x] Binary Search
   - [x] BFS & DFS
-
-## Environment
-
-- Deno 1.2.1
-- V8 8.5.216
-- TypeScript 3.9.2
 
 ## Resources
 
